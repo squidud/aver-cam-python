@@ -1,0 +1,7 @@
+opencv-python
+numpy
+PyQt6
+mediapipe
+pyvirtualcam
+requests
+cv2-enumerate-cameras
