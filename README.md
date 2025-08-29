@@ -1,4 +1,4 @@
-# Controlling Aver (AVer) PTZ Conference Cameras (Tested on CAM520 Pro)
+# Controlling Aver (AVer) PTZ Conference Cameras (Tested on CAM520 Pro) With Python and HTTP
 
 ### Also includes GUI control application with live face tracking. :) Only USB is needed, no ethernet or RS232.
 
